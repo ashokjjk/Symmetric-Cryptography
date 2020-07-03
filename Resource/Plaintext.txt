@@ -1,0 +1,3 @@
+Hello World This is symmetric encrypt/decrypt in Line 1
+I am also encrypting/decrypting in line 2
+In future if there is more plain text lines in resource folder plaintxt i will also encrypt/decrypt that.
